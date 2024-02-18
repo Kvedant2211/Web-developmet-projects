@@ -1,0 +1,23 @@
+.spin {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: yellow;
+    position: relative;
+    animation: move 5s infinite;
+
+}  
+@keyframes move{
+    0%{
+        top:0px;left:0px;background-color: yellow;
+    }
+    25%{
+        top:0px;left:100px;background-color: orange;
+    }
+    75%{
+        top:100px;left:0px;background-color: red;
+    }
+    100%{
+        top:0px;left:0px;background-color: brown;
+    }
+}
