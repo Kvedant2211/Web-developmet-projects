@@ -11,6 +11,10 @@ https://github.com/Kvedant2211/Web-developmet-projects/assets/110582546/3c26b4ca
 
 https://github.com/Kvedant2211/Web-developmet-projects/assets/110582546/983a92e9-2b63-4007-9b93-1383d90482e2
 
-3.rock paper scissors game
+3.Rock Paper Scissors game
 
 https://github.com/Kvedant2211/Web-developmet-projects/assets/110582546/942dc87e-fccd-4bc0-be4f-61889d439e45
+
+4.Currency Converter
+
+https://github.com/Kvedant2211/Web-developmet-projects/assets/110582546/c0a3c5bd-87ea-4fac-a988-8d0e6411f2e2
